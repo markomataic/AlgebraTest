@@ -59,7 +59,7 @@
 @section('content')
 		<div class="top-right links">
                 <a href="{{ url('/') }}">Home</a>
-                <a href="{{ url('aboutUs') }}">About Us</a>
+                <a href="{{ url('about-us') }}">About Us</a>
         </div>
 		<div class="content">
 			<div class="title m-b-md">
